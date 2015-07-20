@@ -1,0 +1,25 @@
+{
+  "name": "pensbook",
+  "version": "0.0.0",
+  "authors": [
+    "thomas <roma07@naver.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  },
+  "install": {
+    "path": {
+      "less": "assets/less",
+      "js": "assets/js"
+    }
+  }
+}
